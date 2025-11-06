@@ -1,0 +1,25 @@
+file_name,hash_found,signature_found
+Sample 1.pdf,yes,yes
+signed-with-hash.pdf,yes,yes
+Sample 2.pdf,no,yes
+Sample 2-1.pdf,no,no
+unsigned-no-hash.pdf,no,no
+Copy of Sample 2-1.pdf,no,no
+unsigned-with-hash.pdf,yes,no
+Sample 2-1 - Copy.pdf,yes,no
+Sample 1.pdf,yes,yes
+signed-with-hash.pdf,yes,yes
+Sample 2.pdf,no,yes
+Sample 2-1.pdf,no,no
+unsigned-no-hash.pdf,no,no
+Copy of Sample 2-1.pdf,no,no
+Sample 2-1 - Copy.pdf,yes,no
+unsigned-with-hash.pdf,yes,no
+unsigned-with-hash.pdf,yes,no
+Sample 2-1 - Copy.pdf,yes,no
+Copy of Sample 2-1.pdf,no,no
+unsigned-no-hash.pdf,no,no
+Sample 2-1.pdf,no,no
+Sample 2.pdf,no,yes
+signed-with-hash.pdf,yes,yes
+Sample 1.pdf,yes,yes

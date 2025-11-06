@@ -1,0 +1,4 @@
+File Name,Residency Verification Found,Has # in Address,Signature Missing,ValidClusters
+Sample 1.pdf,True,True,True,0
+Sample 2-1 - Copy.pdf,True,True,True,0
+Sample 2-1.pdf,True,False,True,0
